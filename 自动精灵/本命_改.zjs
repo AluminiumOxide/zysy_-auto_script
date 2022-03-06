@@ -1,0 +1,37 @@
+{"delay":"","repeatCount":1,"pauseOnFail":true,"count":36,"description":"","minVerCode":56,"minVerName":"2.10.0","screenWidth":1024,"screenHeight":576,"screenDpi":1.2000000476837158,"lastSaveScreenWidth":1024,"lastSaveScreenHeight":576,"lastSaveScreenDpi":1.2000000476837158,"savedVerCode":2022020,"savedVerName":"2.22.2"}
+{"type":"点击","duration":"79","delay":"0.2","delayUnit":1,"posData":{"type":"location","x":"81.4%","y":"86.7%"}}
+{"type":"点击","delay":"2.5","delayUnit":1,"posData":{"type":"location","x":"60.1%","y":"40.2%"}}
+{"type":"点击","delayUnit":1,"posData":{"type":"location","x":"69.7%","y":"62%"}}
+{"type":"点击","delayUnit":1,"posData":{"type":"location","x":"85.9%","y":"13%"}}
+{"type":"点击","delayUnit":1,"posData":{"type":"location","x":"79.4%","y":"64.9%"}}
+{"type":"点击","delayUnit":1,"posData":{"type":"location","x":"85.9%","y":"13%"}}
+{"type":"点击","delayUnit":1,"desc":"开地图","posData":{"type":"location","x":"90.5%","y":"17%"}}
+{"type":"点击","delayUnit":1,"posData":{"type":"location","x":"77.7%","y":"36.7%"}}
+{"type":"点击","delayUnit":1,"desc":"关地图","posData":{"type":"location","x":"93.9%","y":"19.4%"}}
+{"type":"点击","delay":"2.5","delayUnit":1,"desc":" 收取","posData":{"type":"location","x":"69.6%","y":"61.8%"}}
+{"type":"点击","delay":"2","delayUnit":1,"desc":"2","posData":{"type":"location","x":"68.2%","y":"49.7%"}}
+{"type":"点击","delayUnit":1,"desc":" 收取","posData":{"type":"location","x":"69.6%","y":"61.8%"}}
+{"type":"点击","delay":"2","delayUnit":1,"desc":"3","posData":{"type":"location","x":"60.3%","y":"37.2%"}}
+{"type":"点击","delayUnit":1,"desc":" 收取","posData":{"type":"location","x":"69.6%","y":"61.8%"}}
+{"type":"点击","delay":"2","delayUnit":1,"desc":"4","posData":{"type":"location","x":"60.4%","y":"34.7%"}}
+{"type":"点击","delayUnit":1,"desc":" 收取","posData":{"type":"location","x":"69.6%","y":"61.8%"}}
+{"type":"点击","delay":"2","delayUnit":1,"desc":"5","posData":{"type":"location","x":"78.9%","y":"64.9%"}}
+{"type":"点击","delayUnit":1,"desc":" 收取","posData":{"type":"location","x":"69.6%","y":"61.8%"}}
+{"type":"点击","delay":"2","delayUnit":1,"desc":"6","posData":{"type":"location","x":"50.3%","y":"72.6%"}}
+{"type":"点击","delayUnit":1,"desc":" 收取","posData":{"type":"location","x":"69.6%","y":"61.8%"}}
+{"type":"点击","delay":"2","delayUnit":1,"desc":"7","posData":{"type":"location","x":"37.4%","y":"71.2%"}}
+{"type":"点击","delayUnit":1,"desc":" 收取","posData":{"type":"location","x":"69.6%","y":"61.8%"}}
+{"type":"点击","delayUnit":1,"desc":"8","posData":{"type":"location","x":"39.5%","y":"71%"}}
+{"type":"点击","delayUnit":1,"desc":" 收取","posData":{"type":"location","x":"69.6%","y":"61.8%"}}
+{"type":"点击","delay":"2","delayUnit":1,"desc":"9","posData":{"type":"location","x":"36.7%","y":"73.6%"}}
+{"type":"点击","delayUnit":1,"desc":" 收取","posData":{"type":"location","x":"69.6%","y":"61.8%"}}
+{"type":"点击","delay":"2","delayUnit":1,"desc":"10","posData":{"type":"location","x":"40.5%","y":"65.7%"}}
+{"type":"点击","delayUnit":1,"desc":"查看奖励","posData":{"type":"location","x":"77.1%","y":"7.1%"}}
+{"type":"控制执行","delay":"0","delayUnit":1,"condition":{"type":"textFount","text":{"type":"text","limitArea":"48% 41.5% 52.2% 46.4%","ocrMode":"local_v2","__vars":{"text":{"varType":"expression","varScope":"script","mustInput":true,"valueExp":"\"15\""}}},"desc":""},"controlRunType":"jumpTo","jumpToPosition":"+5","ContinueParentExecute":false}
+{"type":"点击","delayUnit":1,"desc":"关闭","posData":{"type":"location","x":"67.8%","y":"18.2%"}}
+{"type":"点击","delayUnit":1,"desc":"退出","posData":{"type":"location","x":"86.9%","y":"27.1%"}}
+{"type":"点击","delayUnit":1,"desc":"确认退出","posData":{"type":"location","x":"58.1%","y":"62.5%"}}
+{"type":"控制执行","delay":"2","delayUnit":1,"controlRunType":"jumpTo","jumpToPosition":"1","ContinueParentExecute":false}
+{"type":"点击","delayUnit":1,"desc":"关闭","posData":{"type":"location","x":"67.8%","y":"18.2%"}}
+{"type":"点击","delayUnit":1,"desc":" 收取","posData":{"type":"location","x":"69.6%","y":"61.8%"}}
+{"type":"点击","delay":"0.2","delayUnit":1,"repeatCount":30,"desc":" 关闭","posData":{"type":"location","x":"65.3%","y":"85.8%"}}
